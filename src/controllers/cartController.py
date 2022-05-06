@@ -1,5 +1,4 @@
 import connectBD as connectDB
-import json
 from pprint import pprint
 
 def insert(userName, product):

@@ -15,6 +15,8 @@ Atividade desenvolvida durante a aula de Banco de Dados Não Relacional da Fatec
 
 ## <a id="comoRodar"> 🎲 Como rodar o projeto </a>
 
+Antes de tudo, baixe as dependências do projeto com o comando `pip install -r requirements.txt`
+
 Para autenticar com o banco de dados, certifique-se de adicionar os dados corretos do banco de dados em `src/connectBD.py`.
 
 Uma vez que os dados estiverem corretos, execute o arquivo `src/main.py`.
