@@ -23,12 +23,27 @@ Uma vez que os dados estiverem corretos, execute o arquivo `src/main.py`.
 
 ## <a id="resultados"> 🎲 Documentação das coleções </a>
 
-### Carrinho de compras
-
-| Chave               | Valor                                                                    |
-| ------------------- | ------------------------------------------------------------------------ |
-| carrinho:{userName} | {"produtos": [{"nome": "nome do produto", "preco": "preço do produto"}]} |
+<details>
+  <summary>Carrinho de compras</summary>
+  <br>
+  <table>
+    <tr>
+      <th>Chave</th>
+      <th>Valor</th>
+    </tr>
+    <tr>
+      <td>carrinho:{nomeDoUsuario}</td>
+      <td>{"produtos": [{"nome": {nomeDoProduto}, "preco": {precoDoProduto}}]}</td>
+    </tr>
+  </table>
+</details>
 
 ## <a id="resultados"> 🎲 Resultados </a>
 
-<p><img src = ".github\result.PNG" alt = "Deleção de um usuário" width = 600 /></p>
+<details>
+  <summary>Carrinho de compras</summary>
+  <br>
+  <p>Resultados obtidos após executar as funções do arquivo <a href="https://github.com/gioliveirass/fatec-BDNR-redis-ml/blob/main/src/controllers/cartController.py">cartController.py</a>:</p>
+  <p><img src = ".github\result.PNG" alt = "Deleção de um usuário" width = 600 /></p>
+</details>
+
