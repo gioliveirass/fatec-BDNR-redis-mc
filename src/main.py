@@ -1,7 +1,11 @@
 import controllers.cartController as cartController
 
 # CARRINHO DE COMPRAS
-cartController.insert('gio', '[{"nome": "Condicionador", "preco": "R$30.00"}]')
-cartController.findCart('gio')
-cartController.deleteCart('gio')
-cartController.findCart('gio')
+mongoData = cartController.getDataFromMongo()
+
+for data in mongoData:
+    cartController.insert(data["cpf"], data["cart"])
+
+cartController.findCart('111.111.111-11')
+cartController.deleteCart('111.111.111-11')
+cartController.findCart('111.111.111-11')

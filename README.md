@@ -32,8 +32,8 @@ Uma vez que os dados estiverem corretos, execute o arquivo `src/main.py`.
       <th>Valor</th>
     </tr>
     <tr>
-      <td>carrinho:{nomeDoUsuario}</td>
-      <td>{"produtos": [{"nome": {nomeDoProduto}, "preco": {precoDoProduto}}]}</td>
+      <td>carrinho:{cpfDoUsuario}</td>
+      <td>{"produtos": {"id": "idDoProduto"}}</td>
     </tr>
   </table>
 </details>
@@ -46,4 +46,3 @@ Uma vez que os dados estiverem corretos, execute o arquivo `src/main.py`.
   <p>Resultados obtidos após executar as funções do arquivo <a href="https://github.com/gioliveirass/fatec-BDNR-redis-ml/blob/main/src/controllers/cartController.py">cartController.py</a>:</p>
   <p><img src = ".github\result.PNG" alt = "Deleção de um usuário" width = 600 /></p>
 </details>
-
