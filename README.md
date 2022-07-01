@@ -6,7 +6,7 @@
 
 ## <a id="sobre"> 🎲 Sobre o projeto </a>
 
-Atividade desenvolvida durante a aula de Banco de Dados Não Relacional da Fatec, que consiste em armazenar no Redis certas coleções desenvolvidas com MongoDB na [atividade de modelagem com MongoDB](https://github.com/gioliveirass/fatec-BDNR-MercadoLivre). Também é válido desenvolver novas funcionalidades.
+Atividade desenvolvida durante a aula de Banco de Dados Não Relacional da Fatec, que consiste em armazenar no Redis certas coleções desenvolvidas com MongoDB na [atividade de modelagem com MongoDB](https://github.com/gioliveirass/fatec-BDNR-mongo-ml). Também é válido desenvolver novas funcionalidades.
 
 ## <a id="tecnologias"> 🎲 Tecnologias utilizadas </a>
 
