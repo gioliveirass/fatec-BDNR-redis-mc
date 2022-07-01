@@ -45,5 +45,5 @@ Uma vez que os dados estiverem corretos, execute o arquivo `src/main.py`.
   <summary>Carrinho de compras (clique para expandir)</summary>
   <br>
   <p>Resultados obtidos após executar as funções do arquivo <a href="https://github.com/gioliveirass/fatec-BDNR-redis-ml/blob/main/src/controllers/cartController.py">cartController.py</a>:</p>
-  <p><img src = ".github\results.PNG" alt = "Deleção de um usuário" width = 600 /></p>
+  <p><img src = ".github\results.PNG" alt = "Resultados obtidos" width = 600 /></p>
 </details>
