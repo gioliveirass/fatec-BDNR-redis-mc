@@ -12,6 +12,7 @@ Atividade desenvolvida durante a aula de Banco de Dados Não Relacional da Fatec
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## <a id="comoRodar"> 🎲 Como rodar o projeto </a>
 
